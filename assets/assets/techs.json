@@ -4,6 +4,7 @@
             "title": "Web Development",
             "techs": [
                 "MVC",
+                "Angular",
                 "ReactJS, Redux",
                 "Flutter",
                 "Django"
@@ -13,6 +14,7 @@
             "title": "Android Mobile App Development",
             "techs": [
                 "Android Java, XML",
+                "Android Kotlin, XML",
                 "ReactJS, Redux",
                 "Flutter"
             ]
@@ -88,7 +90,16 @@
             "techs": [
                 "Boomi",
                 "Airflow",
-                "Docker"
+                "Docker",
+                "Git"
+            ]
+        },
+        "sof": {
+            "title": "Software Cycle",
+            "techs": [
+                "Agile",
+                "Scrum",
+                "Jira"
             ]
         }
     },
@@ -122,6 +133,12 @@
         "Boomi": "Integrated Boomi for apps' integration, achieving 40% reduction in integration time & improved data accuracy.",
         "Airflow": "Used Airflow for workflow automation, leading to 30% improvement in task scheduling & 25% decrease in manual errors.",
         "Docker": "Implemented Docker for containerization, resulting in 25% reduction in app deployment time & improved scalability.",
-        "MQTT": "Utilized MQTT for lightweight messaging protocol, improving IoT device communication efficiency by 30%."
+        "MQTT": "Utilized MQTT for lightweight messaging protocol, improving IoT device communication efficiency by 30%.",
+        "Angular": "Developed web apps with Angular, resulting in 20% increase in UI responsiveness & 25% improvement in user satisfaction.",
+        "Jira": "Utilized Jira for project management, leading to 30% improvement in task tracking & 25% increase in team collaboration.",
+        "Scrum": "Implemented Scrum methodology for project development, resulting in 40% improvement in delivery time & 25% in product quality.",
+        "Agile": "Implemented Agile practices for project management, leading to 50% increase in project flexibility & 20% in customer satisfaction.",
+        "Git": "Utilized Git for version control, resulting in 30% reduction in code conflicts & improved collaboration.",
+        "Android Kotlin, XML": "Created Android apps with Kotlin & XML achieving over 10,000 installs and a 4.5-star rating."
     }
 }
