@@ -1,0 +1,127 @@
+{
+    "keys": {
+        "web": {
+            "title": "Web Development",
+            "techs": [
+                "MVC",
+                "ReactJS, Redux",
+                "Flutter",
+                "Django"
+            ]
+        },
+        "and": {
+            "title": "Android Mobile App Development",
+            "techs": [
+                "Android Java, XML",
+                "ReactJS, Redux",
+                "Flutter"
+            ]
+        },
+        "ios": {
+            "title": "iOS Mobile App Development",
+            "techs": [
+                "Swift",
+                "ReactJS, Redux",
+                "Flutter"
+            ]
+        },
+        "hyb": {
+            "title": "Hybrid App Development",
+            "techs": [
+                "ReactJS, Redux",
+                "Flutter"
+            ]
+        },
+        "api": {
+            "title": "API Development",
+            "techs": [
+                "Node.js, Express.js",
+                "Springboot",
+                "PHP",
+                "MQTT"
+            ]
+        },
+        "uix": {
+            "title": "UI UX Designing",
+            "techs": [
+                "Figma",
+                "Adobe XD"
+            ]
+        },
+        "iot": {
+            "title": "IoT Development",
+            "techs": [
+                "Arduino",
+                "ESP32",
+                "Raspberry Pi"
+            ]
+        },
+        "scr": {
+            "title": "Web Scraping",
+            "techs": [
+                "Selenium",
+                "Puppeteer"
+            ]
+        },
+        "clo": {
+            "title": "Cloud  Computing",
+            "techs": [
+                "AWS (EC2, S3)",
+                "Azure (VM, SQL Server, Blob Storage)",
+                "GCloud",
+                "Firebase"
+            ]
+        },
+        "dbs": {
+            "title": "Database Management",
+            "techs": [
+                "SQL",
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "Firestore",
+                "Snowflake"
+            ]
+        },
+        "too": {
+            "title": "Tools",
+            "techs": [
+                "Boomi",
+                "Airflow",
+                "Docker"
+            ]
+        }
+    },
+    "points": {
+        "MVC": "Developed and maintained web apps using MVC architecture with Node.js, HTML, CSS, resulting in 20% increase in performance.",
+        "ReactJS, Redux": "Implemented ReactJS for frontend, leading to 30% improvement in UI responsiveness & 25% increase in user satisfaction.",
+        "Flutter": "Developed cross-platform mobile apps with Flutter achieving over 10,000 downloads and a 4-star ratings.",
+        "Django": "Built and deployed web apps with Django, leading to 50% decrease in page load time & 20% increase in user retention.",
+        "Android Java, XML": "Created Android apps with Java & XML achieving over 50,000 installs and a 4.5-star ratings.",
+        "Swift": "Developed iOS apps with Swift, achieving 25% increase in app performance & 20% decrease in bug reports.",
+        "Node.js, Express.js": "Implemented RESTful APIs with Node.js and Express.js, achieving 30% decrease in API response time & improved scalability.",
+        "Springboot": "Developed and deployed web apps using Springboot, achieving 40% improvement in app startup time & 25% in user satisfaction.",
+        "PHP": "Created dynamic web apps with PHP, resulting in a 50% increase in website traffic & 30% improvement in conversion rates.",
+        "Figma": "Used Figma to design UI/UX with 40% reduction in design iteration time & improved collaboration.",
+        "Adobe XD": "Used Adobe XD for UI/UX design, resulting in 20% increase in user engagement",
+        "Arduino": "Developed IoT projects using Arduino with 30% cost reduction in hardware components & 25% increase in project efficiency.",
+        "ESP32": "Programmed ESP32 for Smart Home Project, resulting in 40% improvement in connectivity & 20% decrease in power consumption.",
+        "Raspberry Pi": "Used Raspberry Pi for IoT projects, leading to 25% decrease in project development time & 15% increase in project scalability.",
+        "Selenium": "Utilized Selenium to automate web testing with 50% reduction in testing time & 20% increase in test coverage.",
+        "Puppeteer": "Utilized Puppeteer for web scraping, achieving 40% improvement in data extraction speed & accuracy.",
+        "AWS (EC2, S3)": "Deployed servers and storage on AWS with 30% decrease in hosting costs & improved scalability.",
+        "Azure (VM, SQL Server, Blob Storage)": "Managed Azure resources, resulting in 20% improvement in resource utilization & cost efficiency.",
+        "GCloud": "Utilized GCloud for cloud computing, achieving 25% reduction in infrastructure maintenance time & 15% decrease in downtime.",
+        "Firebase": "Integrated Firebase for Web & Mobile backend, resulting in 40% reduction in development time & improved app performance.",
+        "SQL": "Developed and maintained SQL databases, resulting in 30% rise in data retrieval speed & 25% decrease in data storage costs.",
+        "MongoDB": "Implemented MongoDB for NoSQL database, achieving 20% increase in data processing speed & 15% in data security.",
+        "MySQL": "Managed MySQL databases, achieving 40% improvement in database performance & 30% decrease in query execution time.",
+        "PostgreSQL": "Implemented Relational DBMS with PostgreSQL, resulting in 25% improvement in data integrity.",
+        "Firestore": "Utilized Firestore for real-time database solutions, leading to 30% improvement in data sync & 25% increase in app responsiveness.",
+        "Snowflake": "Implemented Snowflake for data warehousing, resulting in 20% decrease in query execution time & improved analytics capabilities.",
+        "Boomi": "Integrated Boomi for apps' integration, achieving 40% reduction in integration time & improved data accuracy.",
+        "Airflow": "Used Airflow for workflow automation, leading to 30% improvement in task scheduling & 25% decrease in manual errors.",
+        "Docker": "Implemented Docker for containerization, resulting in 25% reduction in app deployment time & improved scalability.",
+        "MQTT": "Utilized MQTT for lightweight messaging protocol, improving IoT device communication efficiency by 30%."
+    }
+}
