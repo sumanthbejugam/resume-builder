@@ -80406,7 +80406,7 @@ h=o.a.d
 h===$&&A.a()
 n=B.b.bF(h,"\n")
 q=3
-h=A.aEL("http","ec2-44-222-142-215.compute-1.amazonaws.com:4328","/generateResume",null)
+h=A.aEL("https","resmak.confegure.net","/generateResume",null)
 g=t.N
 f=A.aF(["Access-Control-Allow-Origin","*","Accept","*/*","Accept-Encoding","gzip, deflate, br"],g,g)
 s=6
