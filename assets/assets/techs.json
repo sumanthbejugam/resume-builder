@@ -5,8 +5,6 @@
             "techs": [
                 "MVC",
                 "Angular",
-                "ReactJS, Redux",
-                "Flutter",
                 "Django"
             ]
         },
@@ -14,17 +12,13 @@
             "title": "Android Mobile App Development",
             "techs": [
                 "Android Java, XML",
-                "Android Kotlin, XML",
-                "ReactJS, Redux",
-                "Flutter"
+                "Android Kotlin, XML"
             ]
         },
         "ios": {
             "title": "iOS Mobile App Development",
             "techs": [
-                "Swift",
-                "ReactJS, Redux",
-                "Flutter"
+                "Swift"
             ]
         },
         "hyb": {
@@ -68,8 +62,8 @@
         "clo": {
             "title": "Cloud  Computing",
             "techs": [
-                "AWS (EC2, S3)",
-                "Azure (VM, SQL Server, Blob Storage)",
+                "AWS",
+                "Azure",
                 "GCloud",
                 "Firebase"
             ]
@@ -101,6 +95,23 @@
                 "Scrum",
                 "Jira"
             ]
+        },
+        "aim": {
+            "title": "AI/ML",
+            "techs": [
+                "AI",
+                "ML",
+                "DL",
+                "NLP",
+                "LLM"
+            ]
+        },
+        "lan": {
+            "title": "Languages",
+            "techs": [
+                "C++",
+                "Linux"
+            ]
         }
     },
     "points": {
@@ -120,8 +131,8 @@
         "Raspberry Pi": "Used Raspberry Pi for IoT projects, leading to 25% decrease in project development time & 15% increase in project scalability.",
         "Selenium": "Utilized Selenium to automate web testing with 50% reduction in testing time & 20% increase in test coverage.",
         "Puppeteer": "Utilized Puppeteer for web scraping, achieving 40% improvement in data extraction speed & accuracy.",
-        "AWS (EC2, S3)": "Deployed servers and storage on AWS with 30% decrease in hosting costs & improved scalability.",
-        "Azure (VM, SQL Server, Blob Storage)": "Managed Azure resources, resulting in 20% improvement in resource utilization & cost efficiency.",
+        "AWS": "Deployed servers and storage on AWS with 30% decrease in hosting costs & improved scalability.",
+        "Azure": "Managed Azure resources, resulting in 20% improvement in resource utilization & cost efficiency.",
         "GCloud": "Utilized GCloud for cloud computing, achieving 25% reduction in infrastructure maintenance time & 15% decrease in downtime.",
         "Firebase": "Integrated Firebase for Web & Mobile backend, resulting in 40% reduction in development time & improved app performance.",
         "SQL": "Developed and maintained SQL databases, resulting in 30% rise in data retrieval speed & 25% decrease in data storage costs.",
@@ -139,6 +150,13 @@
         "Scrum": "Implemented Scrum methodology for project development, resulting in 40% improvement in delivery time & 25% in product quality.",
         "Agile": "Implemented Agile practices for project management, leading to 50% increase in project flexibility & 20% in customer satisfaction.",
         "Git": "Utilized Git for version control, resulting in 30% reduction in code conflicts & improved collaboration.",
-        "Android Kotlin, XML": "Created Android apps with Kotlin & XML achieving over 10,000 installs and a 4.5-star rating."
+        "Android Kotlin, XML": "Created Android apps with Kotlin & XML achieving over 10,000 installs and a 4.5-star rating.",
+        "C++": "Developed a high-performance data processing module with C++ that reduced processing time by 30%.",
+        "Linux": "Configured and managed Linux servers, maintaining 99.9% uptime over a period of 12 months.",
+        "AI": "Implemented AI algorithms for real-time data analysis, resulting in a 25% reduction in processing time.",
+        "ML": "Implemented ML algorithms for data generation achieving 97% accuracy.",
+        "DL": "Implemented a neural network architecture that reduced training time by 40%.",
+        "NLP": "Implemented NLP algorithms for text summarization, achieving a 25% reduction in text length while preserving key information.",
+        "LLM": "Implemented language modeling techniques for speech recognition, improving accuracy by 10% over the previous model."
     }
 }
