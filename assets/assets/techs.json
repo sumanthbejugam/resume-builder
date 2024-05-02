@@ -85,7 +85,9 @@
                 "Boomi",
                 "Airflow",
                 "Docker",
-                "Git"
+                "Git",
+                "Maps API",
+                "Google API"
             ]
         },
         "sof": {
@@ -157,6 +159,8 @@
         "ML": "Implemented ML algorithms for data generation achieving 97% accuracy.",
         "DL": "Implemented a neural network architecture that reduced training time by 40%.",
         "NLP": "Implemented NLP algorithms for text summarization, achieving a 25% reduction in text length while preserving key information.",
-        "LLM": "Implemented language modeling techniques for speech recognition, improving accuracy by 10% over the previous model."
+        "LLM": "Implemented language modeling techniques for speech recognition, improving accuracy by 10% over the previous model.",
+        "Maps API": "Developed location-based services using Maps API, resulting in a 20% increase in user engagement.",
+        "Google API": "Integrated Google API for Sheet, Docs and more, allowing users to easily handle documents."
     }
 }
