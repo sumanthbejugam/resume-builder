@@ -87,7 +87,8 @@
                 "Docker",
                 "Git",
                 "Maps API",
-                "Google API"
+                "Google API",
+                "Background"
             ]
         },
         "sof": {
@@ -161,6 +162,7 @@
         "NLP": "Implemented NLP algorithms for text summarization, achieving a 25% reduction in text length while preserving key information.",
         "LLM": "Implemented language modeling techniques for speech recognition, improving accuracy by 10% over the previous model.",
         "Maps API": "Developed location-based services using Maps API, resulting in a 20% increase in user engagement.",
-        "Google API": "Integrated Google API for Sheet, Docs and more, allowing users to easily handle documents."
+        "Google API": "Integrated Google API for Sheet, Docs and more, allowing users to easily handle documents.",
+        "Background": "Implemented forever background processing services, improving app functionality by 80%."
     }
 }
