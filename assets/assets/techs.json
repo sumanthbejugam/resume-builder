@@ -26,7 +26,7 @@
             "techs": [
                 "ReactJS, Redux",
                 "Flutter",
-                "Flutter, React"
+                "Flutter,React"
             ]
         },
         "api": {
@@ -122,7 +122,7 @@
         "MVC": "Developed and maintained web apps using MVC architecture with Node.js, HTML, CSS, resulting in 20% increase in performance.",
         "ReactJS, Redux": "Implemented ReactJS for frontend, leading to 30% improvement in UI responsiveness & 25% increase in user satisfaction.",
         "Flutter": "Developed cross-platform mobile apps with Flutter achieving over 10,000 downloads and a 4-star ratings.",
-        "Flutter, React": "Developed cross-platform mobile apps with Flutter & React leading to 30% improvement in UI responsiveness",
+        "Flutter,React": "Developed cross-platform mobile apps with Flutter & React leading to 30% improvement in UI responsiveness",
         "Django": "Built and deployed web apps with Django, leading to 50% decrease in page load time & 20% increase in user retention.",
         "Android Java, XML": "Created Android apps with Java & XML achieving over 50,000 installs and a 4.5-star ratings.",
         "Swift": "Developed iOS apps with Swift, achieving 25% increase in app performance & 20% decrease in bug reports.",
